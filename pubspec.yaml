@@ -1,6 +1,6 @@
 name: flutter_classes
-description: Template for Flutter Package project.
-version: 0.0.1
+description: Collection of Flutter classes used by almost ever app.
+version: 0.0.1+1
 author: Steven Smith
 homepage: http://www.icodeforyou.com
 publish_to: 'none'
