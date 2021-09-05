@@ -4,9 +4,9 @@ Collection of class used by almost every app
 
 ## Getting Started
 
-### simple_bloc_observer
-
 ### observering_stateful_widget
+
+### simple_bloc_observer
 
 ## Final Thoughts
 

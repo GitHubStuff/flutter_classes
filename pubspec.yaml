@@ -10,9 +10,9 @@ environment:
   flutter: ">=2.2.3"
 
 dependencies:
-  app_exceptions:
+  app_exception:
     git:
-      url: https://github.com/GitHubStuff/app_exceptions.git
+      url: https://github.com/GitHubStuff/app_exception.git
   cupertino_icons: ^1.0.3
   flutter:
     sdk: flutter
