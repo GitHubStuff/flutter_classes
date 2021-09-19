@@ -1,13 +1,12 @@
 name: flutter_classes
 description: Collection of Flutter classes used by almost ever app.
-version: 0.0.1+3
-author: Steven Smith
+version: 0.0.1+4
 homepage: http://www.icodeforyou.com
 publish_to: 'none'
 
 environment:
-  sdk: ">=2.13.4 <3.0.0" #Dart SDK 4-SEP-2021
-  flutter: ">=2.2.3"
+  sdk: ">=2.14.0 <3.0.0" #Dart SDK 4-SEP-2021
+  flutter: ">=2.5.0"
 
 dependencies:
   app_exception:
@@ -16,8 +15,8 @@ dependencies:
   cupertino_icons: ^1.0.3
   flutter:
     sdk: flutter
-  flutter_bloc: ^7.1.0
-  flutter_modular: ^3.4.1+1
+  flutter_bloc: ^7.2.0
+  flutter_modular: ^4.0.0+7
   intl: ^0.17.0
 
 dev_dependencies:
